@@ -2,11 +2,11 @@
 title = "Notes 13.7.2023"
 author = ["Matt Jones"]
 date = 2023-07-13
-lastmod = 2023-07-14T22:11:03+01:00
+lastmod = 2023-08-04T23:02:14+01:00
 tags = ["Cycling", "Politics", "Gaming"]
 categories = ["linknotes"]
 draft = false
-weight = 2002
+weight = 2003
 [[resources]]
   src = "vanmoof.jpg"
   title = "VanMoof bicycle leaning against a garage door"

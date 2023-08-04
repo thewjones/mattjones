@@ -2,11 +2,11 @@
 title = "Link Notes 8 March 2023"
 author = ["Matt Jones"]
 date = 2023-03-08
-lastmod = 2023-07-14T22:11:03+01:00
+lastmod = 2023-08-04T23:02:14+01:00
 tags = ["Politics", "Asylum", "Blogging"]
 categories = ["linknotes"]
 draft = false
-weight = 2004
+weight = 2005
 +++
 
 ## Today's links {#today-s-links}
