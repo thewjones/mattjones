@@ -8,7 +8,7 @@
 
 * Link Notes                                              :@linknotes:
 
-** Notes 4.8.2023
+** Notes 4.8.2023  :Environment:Politics:
 :PROPERTIES:
 :EXPORT_DATE: 2023-08-04
 :EXPORT_HUGO_BUNDLE: 20230804
@@ -16,16 +16,23 @@
 :EXPORT_FILE_NAME: index
 :END:
 #+begin_export hugo
-{{< imgproc name="stonehenge"
+{{< imgproc name="playground"
     command="Resize"
     options="1200x webp"
-    imageCaption="35mm film photo of Stone Henge" 
-    imageURL="https://commons.wikimedia.org/wiki/File:StonehengeInfraRedE4ProcessKodakFilm-001.tif"
-    imageAttrib=""
-    imageLicense="Public Domain"
-    licenseURL="https://en.wikipedia.org/wiki/Public_domain">}}
+    imageCaption="Photo of a rusting see-saw in an overgrown playground. Image converted to monochrome from the original." 
+    imageURL="https://www.flickr.com/photos/141333312@N03/27437841887/"
+    imageAttrib="Trevor Marron"
+    imageLicense="(CC BY 2.0)"
+    licenseURL="https://creativecommons.org/licenses/by/2.0/">}}
 #+end_export
-*** Today's notes
+
+*** Today's note
+
+Thoughts on how we're denying children the natural right to play outside.
+#+begin_export hugo
+<!--more-->
+#+end_export
+---
 **** England’s playgrounds crumble as council budgets fall
 
 https://www.theguardian.com/environment/2023/aug/04/england-playgrounds-crumble-council-budgets-fall
@@ -36,9 +43,8 @@ Juvenile play happens close to parents and in human society close to dwellings i
 
 But 'developed' countries spent the latter half of the 20th Century removing these spaces and opportunity for spontanaous play. Instead, spaces for play are demarcated, usually in public parks and away from the streets where cars, both moving and parked, have become dominant.
 
-Now, it seems, even the the spaces defined as area for play are no longer maintained because of a lack of money to maintain them. While the rich are getting richer     
+Now, it seems, even the the spaces defined as area for play are no longer maintained because of a lack of money to maintain them. Simply put, this degradation of space is against nature and against the developmental requirements of children. All while the money that should be invested in public space is funnelled into private hands and the rich get richer.      
 
-https://www.flickr.com/photos/141333312@N03/27437841887/
 
 
 ** Notes 14.7.2023                           :Environment:Transport:Politics:
