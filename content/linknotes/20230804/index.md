@@ -2,7 +2,7 @@
 title = "Notes 4.8.2023"
 author = ["Matt Jones"]
 date = 2023-08-04
-lastmod = 2023-08-05T10:22:39+01:00
+lastmod = 2023-08-05T10:32:04+01:00
 tags = ["Environment", "Politics"]
 categories = ["linknotes"]
 draft = false
@@ -42,7 +42,7 @@ Juvenile play happens close to parents and in human society close to dwellings i
 
 But 'developed' countries spent the latter half of the 20th Century removing these spaces and opportunity for spontanaous play. Instead, spaces for play are demarcated, usually in public parks and away from the streets where cars, both moving and parked, have become dominant.
 
-Now, it seems, even the the spaces defined as area for play are no longer maintained because of a lack of money to maintain them. Simply put, this degradation of space is against nature and against the developmental requirements of children. All while the money that should be invested in public space is funnelled into private hands and the rich get richer.
+Now, it seems, even the spaces defined as area for play are no longer maintained because of a lack of money to maintain them. Simply put, this degradation of space is against nature and against the developmental requirements of children. All while the money that should be invested in public space is funnelled into private hands for the benefit of the few.
 
 
 [//]: # "Exported with love from a post written in Org mode"
