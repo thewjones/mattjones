@@ -7,7 +7,8 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=Edge">
         <meta name="author" content="@mattjones">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="me" href="https://mastodon.mattjon.es/@matt"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
         <link href="{{ "css/style.css" | relURL }}" rel="stylesheet">
 {{ range .AlternativeOutputFormats -}}
     {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
