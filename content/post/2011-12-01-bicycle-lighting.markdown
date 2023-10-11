@@ -11,7 +11,7 @@ title: Using your energy, not battery power, to light your bicycle
 wordpress_id: 4563
 ---
 
-A few months ago I took a front wheel to a local bike shop to get a replacement spoke fitted. I handed it over to the sales assistant and the first thing he did was look at the hub and turn the spindle. _"That hub's absolutely buggered mate"_ he quickly concluded, referring to the apparent stiffness as it turned. He didn't recognise that the hub was a dynamo, and the friction is there to generate electrical power as the wheel turns.
+A few months ago I took a front wheel to a local bike shop to get a replacement spoke fitted. I handed it over to the sales assistant and the first thing he did was look at the hub and turn the spindle. _"That hub's a goner mate"_ he quickly concluded, referring to the apparent stiffness as it turned. He didn't recognise that the hub was a dynamo, and the friction is there to generate electrical power as the wheel turns.
 
 
 
