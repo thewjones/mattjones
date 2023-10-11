@@ -75,8 +75,3 @@ To conclude, dynamo powered lights tend to be extremely bright and rear dynamo l
 
 
 
-
-Photo credit: [Amsterdam By Night](http://www.flickr.com/photos/mindcaster-ezzolicious/4056238113/in/set-72157609723349256) by [Amsterdamize](http://www.flickr.com/photos/mindcaster-ezzolicious/)
-
-
-
