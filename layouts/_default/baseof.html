@@ -10,6 +10,11 @@
 	<link rel="me" href="https://mastodon.mattjon.es/@matt"/>
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link href="{{ "css/style.css" | relURL }}" rel="stylesheet">
+        {{ if .Params.canonicalUrl }}
+        <link rel="canonical" href="https://mattjon.es{{ .Params.canonicalUrl }}">
+        {{ else }}
+        <link rel="canonical" href="https://mattjon.es{{ .RelPermalink }}">
+        {{ end }}
 {{ range .AlternativeOutputFormats -}}
     {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
 {{ end -}}     
