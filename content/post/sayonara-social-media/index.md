@@ -4,7 +4,7 @@ tags:
 title: Sayonara Social Media
 ---
 
-I deleted my Twitter account in November 2022, after Elon Musk's hilariously carried a sink into Twitter HQ, having sensibly purchased Twitter for forty quintillion dollars. Let that sink in.
+I deleted my Twitter account in November 2022, after Elon Musk hilariously carried a sink into Twitter HQ, having sensibly purchased Twitter for forty quintillion dollars. Let that sink in.
 
 I just couldn't bear being a member of a platform owned by Prime Tech Doofus Musk, despite having lots of Twitter friends, the glue of those virtual friendships being mainly the politics of cycling infrastructure.
 
