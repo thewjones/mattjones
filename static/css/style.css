@@ -97,10 +97,12 @@ ins,
 mark {
 
     text-decoration:none;
-    word-break:break-all;
+   
 }
 
-
+h3 + p > a {
+    word-break:break-all;
+}
 
 html {
     line-height: 1.15;
