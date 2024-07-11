@@ -12,8 +12,20 @@
 :PROPERTIES:
 :EXPORT_DATE: 2024-07-11
 :EXPORT_HUGO_BUNDLE: 20240711
+:EXPORT_HUGO_RESOURCES: :src "46645-1532336916.jpg" :title "Still from the film The Shining. Wendy, played by Shelley Duval, sits at the table with Danny" :name "theshining"
 :EXPORT_FILE_NAME: index
 :END:
+#+begin_export hugo
+{{< imgproc name="theshining"
+    command="Resize"
+    options="1200x webp"
+    imageCaption="Still from the film The Shining. Wendy, played by Shelley Duval, sits at the table with Danny" 
+    imageURL=""
+    imageAttrib=""
+    imageLicense="Fair Use"
+    licenseURL="https://en.wikipedia.org/wiki/Fair_use">}}
+#+end_export
+
 *** Today's notes
 
 + [[/blog/links/2024/07/11#shelley-duval-dies-on-her-birthday-aged-75][Shelley Duval dies on her birthday aged 75]]

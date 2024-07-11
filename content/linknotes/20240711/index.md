@@ -2,12 +2,26 @@
 title = "Notes 11.7.2024"
 author = ["Matt Jones"]
 date = 2024-07-11
-lastmod = 2024-07-11T22:12:45+01:00
+lastmod = 2024-07-11T22:31:39+01:00
 tags = ["Film", "Music"]
 categories = ["linknotes"]
 draft = false
 weight = 2001
+[[resources]]
+  src = "46645-1532336916.jpg"
+  title = "Still from the film The Shining. Wendy, played by Shelley Duval, sits at the table with Danny"
+  name = "theshining"
 +++
+
+{{< imgproc name="theshining"
+    command="Resize"
+    options="1200x webp"
+    imageCaption="Still from the film The Shining. Wendy, played by Shelley Duval, sits at the table with Danny"
+    imageURL=""
+    imageAttrib=""
+    imageLicense="Fair Use"
+    licenseURL="https://en.wikipedia.org/wiki/Fair_use">}}
+
 
 ## Today's notes {#today-s-notes}
 
