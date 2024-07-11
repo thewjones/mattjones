@@ -2,7 +2,7 @@
 title = "Notes 11.7.2024"
 author = ["Matt Jones"]
 date = 2024-07-11
-lastmod = 2024-07-11T22:02:23+01:00
+lastmod = 2024-07-11T22:12:45+01:00
 tags = ["Film", "Music"]
 categories = ["linknotes"]
 draft = false
@@ -30,18 +30,22 @@ In Vivian Kubrick's 'Making of...' film we see Duvall suffering from exhaustion 
 
 It's the sexism that we know is engrained in every industry, including the film industry.
 
+---
+
 
 ### Eurorack Pitch Quantizer Module Comparison {#eurorack-pitch-quantizer-module-comparison}
 
 <https://doudoroff.com/quantizers/>
 
-I'm currently planning my first Eurorack modular synt  and one module I need is a pitch quantizer.
+I'm currently planning my first Eurorack modular synth  and one module I need is a pitch quantizer.
 
 A pitch quantizer translates incoming voltages to pitches in a musical scale.
 
 This is useful if you have something generating random voltages and you want the sound this outputs to be tuneful.
 
-THis site lists the Eurorack pitch quantizers available alongside their technical features. It's an example of a site that presents a set of very niche and detailed information collated together in an accessible way, as opposed to the common approach these days which is to make a Youtube video.  This sort of thing is the best of the Web.
+THis site lists the Eurorack pitch quantizers available alongside their technical features. It's an example of a site that presents a set of very niche and detailed information in an accessible way, as opposed to the common approach these days which is to put it all into a Youtube video.  This sort of thing is the best of the Web.
+
+---
 
 
 ### Musical connection of the day {#musical-connection-of-the-day}

@@ -35,6 +35,8 @@ In Vivian Kubrick's 'Making of...' film we see Duvall suffering from exhaustion 
 
 It's the sexism that we know is engrained in every industry, including the film industry.
 
+---
+
 **** Eurorack Pitch Quantizer Module Comparison
 
 https://doudoroff.com/quantizers/
@@ -47,6 +49,7 @@ This is useful if you have something generating random voltages and you want the
 
 THis site lists the Eurorack pitch quantizers available alongside their technical features. It's an example of a site that presents a set of very niche and detailed information in an accessible way, as opposed to the common approach these days which is to put it all into a Youtube video.  This sort of thing is the best of the Web.   
 
+---
 
 **** Musical connection of the day
 
