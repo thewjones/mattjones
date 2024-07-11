@@ -8,7 +8,52 @@
 
 * Link Notes                                              :@linknotes:
 
-** Notes 8.7.2024                                      :Environment:Politics:
+** Notes 11.7.2024                                     :Film:Music:
+:PROPERTIES:
+:EXPORT_DATE: 2024-07-11
+:EXPORT_HUGO_BUNDLE: 20240711
+:EXPORT_FILE_NAME: index
+:END:
+*** Today's notes
+
++ [[/blog/links/2024/07/11#shelley-duval-dies-on-her-birthday-aged-75][Shelley Duval dies on her birthday aged 75]]
++ [[/blog/links/2024/07/11#eurorack-pitch-quantizer-module-comparison][Eurorack Pitch Quantizer Module Comparison]]
++ [[/blog/links/2024/07/11#musical-connection-of-the-day][Musical connection of the day]]
+  
+#+begin_export hugo
+<!--more-->
+#+end_export
+---
+
+**** Shelley Duval dies on her birthday aged 75
+
+https://www.theguardian.com/film/article/2024/jul/11/shelley-duvall-star-of-the-shining-and-annie-hall-dies-aged-75
+
+I'm reassessing the way I feel about Kubrick's films, especially The Shining, which starred Shelley Duval as Wendy.
+
+In Vivian Kubrick's 'Making of...' film we see Duvall suffering from exhaustion during the punishing filming schedule and generally being derided and put down by Kubrick, almost as a parallel to what happens in the film.
+
+It's the sexism that we know is engrained in every industry, including the film industry.
+
+**** Eurorack Pitch Quantizer Module Comparison
+
+https://doudoroff.com/quantizers/
+
+I'm currently planning my first Eurorack modular synth  and one module I need is a pitch quantizer.
+
+A pitch quantizer translates incoming voltages to pitches in a musical scale.
+
+This is useful if you have something generating random voltages and you want the sound this outputs to be tuneful.
+
+THis site lists the Eurorack pitch quantizers available alongside their technical features. It's an example of a site that presents a set of very niche and detailed information in an accessible way, as opposed to the common approach these days which is to put it all into a Youtube video.  This sort of thing is the best of the Web.   
+
+
+**** Musical connection of the day
+
+The bass player on the recording of 'Histoire de Melody Nelson' by Serge Gainsbourg also played bass on the theme tune of the 1980s BBC sitcom Last of the Summer Wine. 
+
+
+** Notes 8.7.2024                            :Environment:Politics:
 :PROPERTIES:
 :EXPORT_DATE: 2024-07-08
 :EXPORT_HUGO_BUNDLE: 20240708
@@ -71,7 +116,7 @@ If new houses are to be build then we need to stop designing car dependency into
 
 
 
-** Notes 4.8.2023  :Environment:Politics:
+** Notes 4.8.2023                            :Environment:Politics:
 :PROPERTIES:
 :EXPORT_DATE: 2023-08-04
 :EXPORT_HUGO_BUNDLE: 20230804
@@ -168,7 +213,7 @@ The idea of taxing the richest in society is quickly batted away by politicians 
 
     
 
-** Notes 13.7.2023                                  :Cycling:Politics:Gaming:
+** Notes 13.7.2023                           :Cycling:Politics:Gaming:
 :PROPERTIES:
 :EXPORT_DATE: 2023-07-13
 :EXPORT_HUGO_BUNDLE: 20230713
@@ -240,7 +285,7 @@ Public Sector worker strikes for better pay and conditions are now a common occu
 Now Hollywood actors are on strike for the first joint action with writers in over 60 years. Because the dynamics of exchanging labour for wage payment are the same regardless of the sectors you work in. 
 
 
-** Link Notes 10 March 2023                              :Politics:Herne:BBC:
+** Link Notes 10 March 2023                  :Politics:Herne:BBC:
 :PROPERTIES:
 :EXPORT_DATE: 2023-03-10
 :EXPORT_HUGO_BUNDLE: 20230310
@@ -294,7 +339,7 @@ Adam Bienkov lays bare the rank hypocrisy shown by the right wing in relation to
 
 
 
-** Link Notes 8 March 2023                         :Politics:Asylum:Blogging:
+** Link Notes 8 March 2023                   :Politics:Asylum:Blogging:
 :PROPERTIES:
 :EXPORT_DATE: 2023-03-08
 :EXPORT_HUGO_BUNDLE: 20230308
