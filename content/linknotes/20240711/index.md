@@ -2,21 +2,21 @@
 title = "Notes 11.7.2024"
 author = ["Matt Jones"]
 date = 2024-07-11
-lastmod = 2024-07-12T14:09:18+01:00
+lastmod = 2024-07-12T19:46:57+01:00
 tags = ["Film", "Music"]
 categories = ["linknotes"]
 draft = false
 weight = 2001
 [[resources]]
   src = "46645-1532336916.jpg"
-  title = "Still from the film The Shining. Wendy, played by Shelley Duval, sits at the table with Danny"
+  title = "Still from the film The Shining. Wendy, played by Shelley Duvall, sits at the table with Danny"
   name = "theshining"
 +++
 
 {{< imgproc name="theshining"
     command="Resize"
     options="1200x webp"
-    imageCaption="Still from the film The Shining. Wendy, played by Shelley Duval, sits at the table with Danny"
+    imageCaption="Still from the film The Shining. Wendy, played by Shelley Duvall, sits at the table with Danny"
     imageURL=""
     imageAttrib=""
     imageLicense="Fair Use"
@@ -25,7 +25,7 @@ weight = 2001
 
 ## Today's notes {#today-s-notes}
 
--   [Shelley Duval dies on her birthday aged 75](/blog/links/2024/07/11#shelley-duval-dies-on-her-birthday-aged-75): Thoughts on Duvall, Kubrick and sexism in the film industry.
+-   [Shelley Duvall dies on her birthday aged 75](/blog/links/2024/07/11#shelley-duval-dies-on-her-birthday-aged-75): Thoughts on Duvall, Kubrick and sexism in the film industry.
 -   [Eurorack Pitch Quantizer Module Comparison](/blog/links/2024/07/11#eurorack-pitch-quantizer-module-comparison): Accessible, niche web information for the win.
 -   [Musical connection of the day](/blog/links/2024/07/11#musical-connection-of-the-day): Le bassiste sur la chanson thème Last of the Summer Wine.
 

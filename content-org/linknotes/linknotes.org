@@ -12,14 +12,14 @@
 :PROPERTIES:
 :EXPORT_DATE: 2024-07-11
 :EXPORT_HUGO_BUNDLE: 20240711
-:EXPORT_HUGO_RESOURCES: :src "46645-1532336916.jpg" :title "Still from the film The Shining. Wendy, played by Shelley Duval, sits at the table with Danny" :name "theshining"
+:EXPORT_HUGO_RESOURCES: :src "46645-1532336916.jpg" :title "Still from the film The Shining. Wendy, played by Shelley Duvall, sits at the table with Danny" :name "theshining"
 :EXPORT_FILE_NAME: index
 :END:
 #+begin_export hugo
 {{< imgproc name="theshining"
     command="Resize"
     options="1200x webp"
-    imageCaption="Still from the film The Shining. Wendy, played by Shelley Duval, sits at the table with Danny" 
+    imageCaption="Still from the film The Shining. Wendy, played by Shelley Duvall, sits at the table with Danny" 
     imageURL=""
     imageAttrib=""
     imageLicense="Fair Use"
@@ -28,7 +28,7 @@
 
 *** Today's notes
 
-+ [[/blog/links/2024/07/11#shelley-duval-dies-on-her-birthday-aged-75][Shelley Duval dies on her birthday aged 75]]: Thoughts on Duvall, Kubrick and sexism in the film industry.
++ [[/blog/links/2024/07/11#shelley-duval-dies-on-her-birthday-aged-75][Shelley Duvall dies on her birthday aged 75]]: Thoughts on Duvall, Kubrick and sexism in the film industry.
 + [[/blog/links/2024/07/11#eurorack-pitch-quantizer-module-comparison][Eurorack Pitch Quantizer Module Comparison]]: Accessible, niche web information for the win.
 + [[/blog/links/2024/07/11#musical-connection-of-the-day][Musical connection of the day]]: Le bassiste sur la chanson thème Last of the Summer Wine.
   
