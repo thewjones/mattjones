@@ -2,7 +2,7 @@
 title = "Notes 11.7.2024"
 author = ["Matt Jones"]
 date = 2024-07-11
-lastmod = 2024-07-11T22:31:39+01:00
+lastmod = 2024-07-12T14:09:18+01:00
 tags = ["Film", "Music"]
 categories = ["linknotes"]
 draft = false
@@ -25,9 +25,9 @@ weight = 2001
 
 ## Today's notes {#today-s-notes}
 
--   [Shelley Duval dies on her birthday aged 75](/blog/links/2024/07/11#shelley-duval-dies-on-her-birthday-aged-75)
--   [Eurorack Pitch Quantizer Module Comparison](/blog/links/2024/07/11#eurorack-pitch-quantizer-module-comparison)
--   [Musical connection of the day](/blog/links/2024/07/11#musical-connection-of-the-day)
+-   [Shelley Duval dies on her birthday aged 75](/blog/links/2024/07/11#shelley-duval-dies-on-her-birthday-aged-75): Thoughts on Duvall, Kubrick and sexism in the film industry.
+-   [Eurorack Pitch Quantizer Module Comparison](/blog/links/2024/07/11#eurorack-pitch-quantizer-module-comparison): Accessible, niche web information for the win.
+-   [Musical connection of the day](/blog/links/2024/07/11#musical-connection-of-the-day): Le bassiste sur la chanson thème Last of the Summer Wine.
 
 <!--more-->
 

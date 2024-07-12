@@ -28,9 +28,9 @@
 
 *** Today's notes
 
-+ [[/blog/links/2024/07/11#shelley-duval-dies-on-her-birthday-aged-75][Shelley Duval dies on her birthday aged 75]]
-+ [[/blog/links/2024/07/11#eurorack-pitch-quantizer-module-comparison][Eurorack Pitch Quantizer Module Comparison]]
-+ [[/blog/links/2024/07/11#musical-connection-of-the-day][Musical connection of the day]]
++ [[/blog/links/2024/07/11#shelley-duval-dies-on-her-birthday-aged-75][Shelley Duval dies on her birthday aged 75]]: Thoughts on Duvall, Kubrick and sexism in the film industry.
++ [[/blog/links/2024/07/11#eurorack-pitch-quantizer-module-comparison][Eurorack Pitch Quantizer Module Comparison]]: Accessible, niche web information for the win.
++ [[/blog/links/2024/07/11#musical-connection-of-the-day][Musical connection of the day]]: Le bassiste sur la chanson thème Last of the Summer Wine.
   
 #+begin_export hugo
 <!--more-->
