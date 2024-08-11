@@ -2,11 +2,11 @@
 title = "Notes 8.7.2024"
 author = ["Matt Jones"]
 date = 2024-07-08
-lastmod = 2024-07-12T19:46:57+01:00
+lastmod = 2024-08-11T07:40:05+01:00
 tags = ["Environment", "Politics"]
 categories = ["linknotes"]
 draft = false
-weight = 2002
+weight = 2003
 [[resources]]
   src = "26878553260_e9d6667f6f_k.jpg"
   title = "Black and white photos of a wind turbine, viewed from below."
@@ -51,7 +51,7 @@ This announcement from Rachel Reeves today though is a good one. We can't have i
 
 ### Labour’s housing plans will use green belt land twice size of Milton Keynes, expert says {#labour-s-housing-plans-will-use-green-belt-land-twice-size-of-milton-keynes-expert-says}
 
-<https://www.theguardian.com/society/article/2024/jul/08/labour-s-housing-plans-green-belt-land-new-towns-david-rudlin>
+<https://www.theguardian.com/society/article/2024/jul/08/labour-housing-plans-green-belt-land-new-towns-david-rudlin>
 
 Some question the need for mass-scale housebuilding when there's already enough housing stock, and the [real cause of the housing crisis](https://www.theguardian.com/lifeandstyle/2024/mar/19/end-of-landlords-surprisingly-simple-solution-to-uk-housing-crisis#comment-166949339) lies in Landlordism.
 

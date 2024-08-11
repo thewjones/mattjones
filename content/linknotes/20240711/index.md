@@ -2,11 +2,11 @@
 title = "Notes 11.7.2024"
 author = ["Matt Jones"]
 date = 2024-07-11
-lastmod = 2024-07-12T19:46:57+01:00
+lastmod = 2024-08-11T07:40:05+01:00
 tags = ["Film", "Music"]
 categories = ["linknotes"]
 draft = false
-weight = 2001
+weight = 2002
 [[resources]]
   src = "46645-1532336916.jpg"
   title = "Still from the film The Shining. Wendy, played by Shelley Duvall, sits at the table with Danny"
