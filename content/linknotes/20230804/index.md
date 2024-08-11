@@ -2,7 +2,7 @@
 title = "Notes 4.8.2023"
 author = ["Matt Jones"]
 date = 2023-08-04
-lastmod = 2024-08-11T07:40:05+01:00
+lastmod = 2024-08-11T23:16:02+01:00
 tags = ["Environment", "Politics"]
 categories = ["linknotes"]
 draft = false
