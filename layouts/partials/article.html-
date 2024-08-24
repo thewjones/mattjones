@@ -1,6 +1,6 @@
 <article>
   <header>
-    <h1>{{ .Title }}</h1>
+    <h1>{{ .Title }} part</h1>
     <ul>
       <li>Posted by <strong>Matt</strong> (<a href="{{ .Permalink }}">Permalink</a>)</li>
       <li>Published on <time>{{ .PublishDate.Format "2 January 2006" }}</time></li>
@@ -9,12 +9,16 @@
   
   {{ if isset .Params "resources" }}
   {{ if $header := (.Resources.ByType "image").GetMatch "header" }}
-  {{ $resource := $header }}
-  {{ $image := $resource.Fill "1400x1400" }}
+
+
+  {{ $filter := images.Process "resize 1000x q75 webp" }}
+
   {{if $header}}
   
   <figure>
-    <img src="{{ $image.RelPermalink }}" loading="lazy">
+    {{ with . | images.Filter $filter }}
+    <img src="{{ $header.RelPermalink }}" loading="lazy">
+    {{ end }}
     <figcaption >
       <span id="caption">
       {{if .Params.imageCaption }}

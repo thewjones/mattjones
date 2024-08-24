@@ -12,33 +12,8 @@
   {{ if isset .Params "resources" }}
   {{ if $header := (.Resources.ByType "image").GetMatch "header" }}
   {{ $resource := $header }}
-  {{ $image := $resource.Fit "1400x1400" }}
   {{if $header}}
-
-  <figure>
-    <img alt="{{ with .Params.imageCaption }}{{ . }}{{ end }}"src="{{ $image.RelPermalink }}" loading="lazy">
-    <figcaption >
-      <span id="caption">
-      {{if .Params.imageCaption }}
-      {{ .Params.imageCaption }}
-      {{ end }}
-      </span>
-      {{ if .Params.imageAttrib }}
-      <span id="credit">
-        Credit: <a href="{{ .Params.imageURL }}">{{ .Params.imageAttrib }}</a>
-        {{ if .Params.imageLicense }}
-         &middot; <span id="license">
-          <a href="{{ .Params.licenseURL }}">
-            {{ .Params.imageLicense }}
-          </a>
-        </span>
-        {{ end }}
-      </span>
-      {{ end }}
-
-    </figcaption>
-  </figure>
-
+  {{ partial "image.html" (dict "Image" $resource "Params" .Params) }}
   {{ end }}
   {{ end }}
   {{ end }}

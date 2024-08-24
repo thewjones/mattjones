@@ -1,0 +1,31 @@
+{{ $filter := images.Process "resize 1000x q75 webp" }}
+
+  <figure>
+ 
+    {{ with .Image }}
+    {{ with . | images.Filter $filter }}
+      <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="{{ .Params.alt }}">
+    {{ end }}
+  {{ end }}
+    
+    <figcaption >
+      <span id="caption">
+      {{if .Params.imageCaption }}
+      {{ .Params.imageCaption }}
+      {{ end }}
+      </span>
+      {{ if .Params.imageLicense }}
+      <span id="credit">
+        Credit: <a href="{{ .Params.imageURL }}">{{ .Params.imageAttrib }}</a> &middot;
+        <span id="license">
+          <a href="{{ .Params.licenseURL }}">
+            {{ .Params.imageLicense }}
+          </a>
+        </span>
+      </span>
+      {{ end }}
+      
+    </figcaption>
+  </figure>
+  
+ 

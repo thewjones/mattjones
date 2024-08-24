@@ -1,18 +1,22 @@
-{{ $original := .Page.Resources.GetMatch (printf "*%s*" (.Get "name")) }}
+
 {{ $command := .Get "command" }}
 {{ $options := .Get "options" }}
-{{ if eq $command "Fit"}}
-{{ .Scratch.Set "image" ($original.Fit $options) }}
-{{ else if eq $command "Resize"}}
-{{ .Scratch.Set "image" ($original.Resize $options) }}
-{{ else if eq $command "Fill"}}
-{{ .Scratch.Set "image" ($original.Fill $options) }}
-{{ else }}
-{{ errorf "Invalid image processing command: Must be one of Fit, Fill or Resize."}}
-{{ end }}
+
+
+{{ $filter := images.Process "resize 1000x q75 webp" }}
+
 {{ $image := .Scratch.Get "image" }}
+
+
+
+
 <figure>
-  <img alt="{{ with .Get "imageCaption"}}{{ . }}{{ end }}" src="{{ $image.RelPermalink }}" loading="lazy">
+  
+{{ with .Page.Resources.GetMatch (printf "*%s*" (.Get "name")) }}
+{{ with . | images.Filter $filter }}
+  <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+{{ end }}
+{{ end }}
 
   <figcaption>
     {{ with .Get "imageCaption"}}
