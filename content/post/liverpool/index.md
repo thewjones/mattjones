@@ -14,7 +14,7 @@ resources:
   src: 5.jpg
 ---
 
-My workplace is close to Liverpool Metropolitan Cathedral, and being someone who appreciates interesting architecture, I often to gravitate towards it during my lunch break, sometimes with camera in my hand. 
+My workplace is close to Liverpool Metropolitan Cathedral, and being someone who appreciates interesting architecture, I often gravitate towards it during my lunch break, sometimes with camera in my hand. 
 
 Designed by Frederick Gibberd, it was built between 1962 and 1967 on top of what remains of the first attempt to build a catholic cathedral on the site - now known as Luyten's Crypt - itself built on the site of a large Victorian workhouse.
 
