@@ -13,7 +13,7 @@ My response to all this is to tune out, to avoid exposing myself to the dark and
 
 But now I have a sense that I need to do my bit to help counter the creeping shift towards societal division and hate, to not be a rabbit in the headlights of an oncoming far-right government.  
 
-In both the 2017 and 2019 General Election campaigns, I canvassed as a member of the Labour Party. While both elections were unsuccessful for Labour nationally, they were in my locality and the experience taught me that talking to people does work; understanding people’s motivations for thinking the way they do is important. And by talking, it’s possible to inform and reason with people to cut through the flood of mis-information they may be seeing in the daily lives. 
+In both the 2017 and 2019 General Election campaigns, I canvassed as a member of the Labour Party. While both elections were unsuccessful for Labour nationally, the experience taught me that talking to people does work; understanding people’s motivations for thinking the way they do is important. And by talking, it’s possible to inform and reason with people to cut through the flood of mis-information they may be seeing in the daily lives. 
 
 Progressivism brought about the end of slavery, democracy, civil rights, workers rights, universal healthcare and so on. What we are a seeing now is an attack on this; the gradual redistribution of power that has been going on for centuries is being reversed under the guise of the ‘war on woke’, and ‘bureaucracy’. The regulation that tempers the excesses of capitalism, is being torn to pieces.
 
