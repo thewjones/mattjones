@@ -19,9 +19,9 @@ Progressivism brought about the end of slavery, democracy, civil rights, workers
 
 So my plan is to talk to people and this will be my line: That decades of progress and relative global peace are being reversed by a handful of billionaire agitators for no other reason than to further enrich themselves and their shareholders. Even worse, this is happening before the backdrop of the climate crisis, which their actions will only catalyse, displacing billions when lands become unliveable, and the feedback loop continues.
 
-I recently visited Jason Kottke’s long running blog [kottke.org](https://kottke.org). Usually an entertaining escape into links and media of interest, Jason has now focused his output into what is going on Washington and the apparent coup d’etat by the broligarchs. He is using his independent platform to spread information, to counter the misinformation rife on the algorithmic social media platforms.  
+I recently visited Jason Kottke’s long running blog [kottke.org](https://kottke.org). Usually an entertaining escape into links and media of interest, Jason has now focused his output into what is going on in Washington, treating it with the level of crisis warranted for such world changing events. He is using his independent platform to spread information, to counter the misinformation rife on the algorithmic social media platforms.  
 
-This has inspired me to take my head out of the sand and do what I can to inform and advocate for a better, more just world. 
+It is this that has inspired me to take my head out of the sand, write this blog and do what I can to inform and advocate for a better, more just world.
 
 Because, to paraphrase John Stuart Mill: *"Bad men need nothing more to compass their ends, than that good people should look on and do nothing."*
 
