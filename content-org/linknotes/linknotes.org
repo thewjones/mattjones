@@ -8,6 +8,54 @@
 
 * Link Notes                                              :@linknotes:
 
+
+** Notes 7.3.2025                                      :Space:Transport:
+:PROPERTIES:
+:EXPORT_DATE: 2025-03-07
+:EXPORT_HUGO_BUNDLE: 20250307
+:EXPORT_HUGO_RESOURCES: :src "20mph.jpg" :title "Still from the film The Shining. Wendy, played by Shelley Duvall, sits at the table with Danny" :name "20"
+:EXPORT_FILE_NAME: index
+:END:
+
+*** Today's notes
+
+
++ [[/blog/links/2025/03/07/#some-wrexham-roads-to-raise-speed-limits-to-30mph][Some Wrexham roads to raise speed limits to 30mph]]: Regress
++ [[/blog/links/2025/03/07#starship-explodes-in-second-failure-for-mars-program][Starship explodes in second failure for Mars program]]: Unscheduled rapid mass pollution event
+
+  
+#+begin_export hugo
+<!--more-->
+#+end_export
+---
+
+**** Some Wrexham roads to raise speed limits to 30mph
+
+
+https://www.bbc.co.uk/news/articles/c3vp4l1qe10o
+
+
+Progress is hard. Mainly because those who shout the loudest get their way. Mass motorisation brought about a mass delusion that roads were built for cars. They weren’t, they were built for everyone going about their daily business on any form of transport or none. Residential streets were built for children to play on, as much as anything else. 
+
+When drivers can only see the purpose of roads from their perspective, a speed limit reduction from 30mph to 20mph seems like an affront. It's a failure to recognise the benefits of a drop in speed limit to everyone apart from themselves. 
+
+[[[/blog/links/2025/03/07/#some-wrexham-roads-to-raise-speed-limits-to-30mph][Permalink]]]
+
+---
+
+**** Starship explodes in second failure for Mars program
+
+
+https://www.theguardian.com/us-news/2025/mar/06/spacex-starship-explodes-musk
+
+A reminder that its disassembled parts, fuel and other materials still very much exist, spread over a wide area, polluting and air, land and sea and harming life.
+
+[[[/blog/links/2025/03/07#starship-explodes-in-second-failure-for-mars-program][permalink]]]
+
+
+
+
+
 ** Notes 10.8.2024                                     :Sport:Media:Politics:
 :PROPERTIES:
 :EXPORT_DATE: 2024-08-10

@@ -2,11 +2,11 @@
 title = "Notes 4.8.2023"
 author = ["Matt Jones"]
 date = 2023-08-04
-lastmod = 2024-08-11T23:16:02+01:00
+lastmod = 2025-03-08T07:56:06+00:00
 tags = ["Environment", "Politics"]
 categories = ["linknotes"]
 draft = false
-weight = 2004
+weight = 2005
 [[resources]]
   src = "27437841887_68b825ce4b_c.jpg"
   title = "Photo of a derelicy playground"

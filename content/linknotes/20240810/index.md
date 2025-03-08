@@ -2,11 +2,11 @@
 title = "Notes 10.8.2024"
 author = ["Matt Jones"]
 date = 2024-08-10
-lastmod = 2024-08-11T23:16:02+01:00
+lastmod = 2025-03-08T07:56:06+00:00
 tags = ["Sport", "Media", "Politics"]
 categories = ["linknotes"]
 draft = false
-weight = 2001
+weight = 2002
 +++
 
 ## Today's notes {#today-s-notes}

@@ -2,11 +2,11 @@
 title = "Notes 8.7.2024"
 author = ["Matt Jones"]
 date = 2024-07-08
-lastmod = 2024-08-11T23:16:02+01:00
+lastmod = 2025-03-08T07:56:06+00:00
 tags = ["Environment", "Politics"]
 categories = ["linknotes"]
 draft = false
-weight = 2003
+weight = 2004
 [[resources]]
   src = "26878553260_e9d6667f6f_k.jpg"
   title = "Black and white photos of a wind turbine, viewed from below."
