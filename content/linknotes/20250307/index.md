@@ -2,15 +2,11 @@
 title = "Notes 7.3.2025"
 author = ["Matt Jones"]
 date = 2025-03-07
-lastmod = 2025-03-08T07:56:06+00:00
+lastmod = 2025-03-08T12:20:19+00:00
 tags = ["Space", "Transport"]
 categories = ["linknotes"]
 draft = false
 weight = 2001
-[[resources]]
-  src = "20mph.jpg"
-  title = "Still from the film The Shining. Wendy, played by Shelley Duvall, sits at the table with Danny"
-  name = 20
 +++
 
 ## Today's notes {#today-s-notes}
@@ -40,7 +36,7 @@ When drivers can only see the purpose of roads from their perspective, a speed l
 
 <https://www.theguardian.com/us-news/2025/mar/06/spacex-starship-explodes-musk>
 
-A reminder that its disassembled parts, fuel and other materials still very much exist, spread over a wide area, polluting and air, land and sea and harming life.
+A reminder that its disassembled parts, fuel and other materials still very much exist, spread over a wide area, polluting air, land and sea and harming life.
 
 [[permalink](/blog/links/2025/03/07#starship-explodes-in-second-failure-for-mars-program)]
 
