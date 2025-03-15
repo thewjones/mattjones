@@ -9,7 +9,7 @@ When turning to the news and analysis about what is happening in America, I'm se
 
 The result then, in my view, is tacit support of the America’s new administration, the [Overton Window](https://en.wikipedia.org/wiki/Overton_window) is lurching to the 'unthinkable' end of the scale, while the world’s most powerful people have successfully convinced everyone that their problems are not because of the transfer of wealth away from them, but because of immigration, international aid and diversity policies. This is when the world’s richest man, in an unelected position of unbridled power, is depriving millions of people around the world of their health and their lives by shutting down USAID in so called efficiency measures.
 
-My response to all this is to tune out, to avoid exposing myself to the dark and endless stream of provocation and wrong-headedness coming from the men tripping on highest level of global power. I ditched my social media accounts a while ago, I now spend more time offline and pursuing my interests - music, photography, cycling - than I have done in the last 25 years, and my mental health is the better for it. 
+My response to all this is to tune out, to avoid exposing myself to the dark and endless stream of provocation and wrong-headedness coming from the men tripping on the highest level of global power. I ditched my social media accounts a while ago, I now spend more time offline and pursuing my interests - music, photography, cycling - than I have done in the last 25 years, and my mental health is the better for it. 
 
 But now I have a sense that I need to do my bit to help counter the creeping shift towards societal division and hate, to not be a rabbit in the headlights of an oncoming far-right government.  
 
