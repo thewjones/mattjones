@@ -27,7 +27,7 @@ licenseURL: https://creativecommons.org/licenses/by-nc-nd/2.0/
     >}}
 
 {{< imgproc name="two"
-  imageCaption="Tree in the mist"
+  imageCaption="Fallen tree in the mist"
     imageAttrib="Matt Jones"
     imageLicense="(CC BY 2.0)"
     licenseURL="https://creativecommons.org/licenses/by/2.0/" >}}
