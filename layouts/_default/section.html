@@ -11,11 +11,20 @@
 
   <p>Still, I'm pleased to have this archive to look back on to see what me as a 20-something year-old was thinking about back then.</p>
       <hr/>
-          <ul class="contents">
-          {{ range (where site.RegularPages "Type" "in" site.Params.mainSections).ByDate.Reverse }}
-              <li><a href="{{ .Permalink }}">{{.Title}} <strong>{{ .PublishDate.Format "2 January 2006" }}</strong></a></li>
-           {{ end }}
-          </ul>
+
+{{ $pages := (where site.RegularPages "Type" "in" site.Params.mainSections).ByDate.Reverse }}
+  {{ $grouped := $pages.GroupByDate "2006" }}  <!-- Groups by year -->
+  
+  {{ range $grouped }}
+    <h2>{{ .Key }}</h2> <!-- Year heading -->
+    <ul>
+      {{ range .Pages }}
+      <li><a href="{{ .Permalink }}">{{.Title}} <strong>{{ .PublishDate.Format "2 January 2006" }}</strong></a></li>
+      {{ end }}
+    </ul>
+  {{ end }}
+
+
 <hr/>
 </article>
 
