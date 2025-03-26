@@ -30,10 +30,12 @@
 
 *** Today's notes
 
-+ [[/blog/links/2025/03/26#lower-thames-crossing-approved-by-government][Lower Thames Crossing approved by government]]
-+ [[/blog/links/2025/03/26#braggoscope][Braggoscope]]
-+ [[/blog/links/2025/03/26#dark-energy-mysterious-cosmic-force-appears-to-be-weakening-say-scientists][Dark energy: mysterious cosmic force appears to be weakening, say scientists]]
-  
++ [[/blog/links/2025/03/26#lower-thames-crossing-approved-by-government][Lower Thames Crossing approved by government]] "It's a bypass... you've got to build bypasses"
++ [[/blog/links/2025/03/26#braggoscope][Braggoscope]] Browsing the 'In Our Time' archive
++ [[/blog/links/2025/03/26#dark-energy-mysterious-cosmic-force-appears-to-be-weakening-say-scientists][Dark energy: mysterious cosmic force appears to be weakening, say scientists]] Don't blame it
+
+
+
 #+begin_export hugo
 <!--more-->
 #+end_export

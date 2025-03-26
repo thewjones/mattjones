@@ -2,7 +2,7 @@
 title = "Notes 26.3.2025"
 author = ["Matt Jones"]
 date = 2025-03-26
-lastmod = 2025-03-26T19:50:11+00:00
+lastmod = 2025-03-26T19:56:52+00:00
 tags = ["Politics", "Transport", "Space"]
 categories = ["linknotes"]
 draft = false
@@ -25,9 +25,9 @@ weight = 2001
 
 ## Today's notes {#today-s-notes}
 
--   [Lower Thames Crossing approved by government](/blog/links/2025/03/26#lower-thames-crossing-approved-by-government)
--   [Braggoscope](/blog/links/2025/03/26#braggoscope)
--   [Dark energy: mysterious cosmic force appears to be weakening, say scientists](/blog/links/2025/03/26#dark-energy-mysterious-cosmic-force-appears-to-be-weakening-say-scientists)
+-   [Lower Thames Crossing approved by government](/blog/links/2025/03/26#lower-thames-crossing-approved-by-government) "It's a bypass... you've got to build bypasses"
+-   [Braggoscope](/blog/links/2025/03/26#braggoscope) Browsing the 'In Our Time' archive
+-   [Dark energy: mysterious cosmic force appears to be weakening, say scientists](/blog/links/2025/03/26#dark-energy-mysterious-cosmic-force-appears-to-be-weakening-say-scientists) Don't blame it
 
 <!--more-->
 
