@@ -2,7 +2,7 @@
 title = "Notes 26.3.2025"
 author = ["Matt Jones"]
 date = 2025-03-26
-lastmod = 2025-03-26T19:56:52+00:00
+lastmod = 2025-03-26T21:09:55+00:00
 tags = ["Politics", "Transport", "Space"]
 categories = ["linknotes"]
 draft = false
@@ -76,7 +76,11 @@ Thankfully [Matt Webb](https://interconnected.org/) has provided [such a tool](h
 
 <https://www.theguardian.com/science/2025/mar/19/dark-energy-mysterious-cosmic-force-weakening>
 
-I’m considering the possibility that the Universe has decided to shut down because of the BBC's relentless recommissioning of Mrs Brown’s Boys.
+I find it helpful to think of the Universe as the three dimensional surface (the part we see) of a four dimensional sphere.
+
+As the 4D sphere expands then the galaxies on its surface grow more distant from each other.
+
+It's intuitive then that if the expansion of then sphere is slowing, then the rate at which galaxies move apart from each other would also slow down. Or maybe I'm oversimplify it, clearly I'm not an astrophysicist.
 
 [[Permalink](/blog/links/2025/03/26#dark-energy-mysterious-cosmic-force-appears-to-be-weakening-say-scientists)]
 
