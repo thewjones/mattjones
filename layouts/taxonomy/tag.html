@@ -1,11 +1,17 @@
   {{ define "main" }}
 <article>
   <h1>{{.Title}}</h1>
-  <ul>
-  {{ range .Data.Pages }}
-              <li><a href="{{ .Permalink }}">{{.Title}} <strong>{{ .PublishDate.Format "2 January 2006" }}</strong></a></li>
-           {{ end }}
-          </ul>
+  {{ $pages := where .Site.RegularPages "Params.tags" "intersect" (slice .Title) }}
+  {{ $grouped := $pages.GroupByDate "2006" }}  <!-- Groups by year -->
+  
+  {{ range $grouped }}
+    <h2>{{ .Key }}</h2> <!-- Year heading -->
+    <ul>
+      {{ range .Pages }}
+      <li><a href="{{ .Permalink }}">{{.Title}} <strong>{{ .PublishDate.Format "2 January 2006" }}</strong></a></li>
+      {{ end }}
+    </ul>
+  {{ end }}
   </article>
 
 {{ end }}
