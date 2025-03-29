@@ -11,12 +11,22 @@
   {{ if gt (len (where site.RegularPages "Type" "in" site.Params.mainSections)) 10 }}
   <section>
     <h2>Previous posts</h2>
-    <ul>
-      {{ range first 30 (after 10 (where site.RegularPages "Type" "in" site.Params.mainSections).ByDate.Reverse) }}
-      <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
-      {{ end }}
-    </ul>
+    {{ $pages := first 10 (after 10 (where site.RegularPages "Type" "in" site.Params.mainSections).ByDate.Reverse) }}
+    {{ $grouped := $pages.GroupByDate "2006" }}  <!-- Groups by year -->
+    
+    {{ range $grouped }}
+      <h3>{{ .Key }}</h2> <!-- Year heading -->
+      <ul>
+        {{ range .Pages }}
+        <li><a href="{{ .Permalink }}">{{.Title}} <strong>{{ .PublishDate.Format "2 January 2006" }}</strong></a></li>
+        {{ end }}
+      </ul>
+    {{ end }}
+    <a href="/post/">Full archive ⟶</a>
   </section>
   {{ end }}  
  </article>
 {{ end }}
+
+
+
