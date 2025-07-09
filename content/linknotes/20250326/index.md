@@ -2,11 +2,11 @@
 title = "Notes 26.3.2025"
 author = ["Matt Jones"]
 date = 2025-03-26
-lastmod = 2025-03-26T21:09:55+00:00
+lastmod = 2025-07-09T21:43:46+01:00
 tags = ["Politics", "Transport", "Space"]
 categories = ["linknotes"]
 draft = false
-weight = 2001
+weight = 2002
 [[resources]]
   src = "NGC_474.jpg"
   title = "Elliptical galaxy NGC 474 — excerpt from the Dark Energy Survey"

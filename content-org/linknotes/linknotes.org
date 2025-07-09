@@ -9,6 +9,53 @@
 * Link Notes                                              :@linknotes:
 
 
+** TODO Notes 8.7.2025                             :Politics:Transport:Space:
+:PROPERTIES:
+:EXPORT_DATE: 2025-07-08
+:EXPORT_HUGO_BUNDLE: 20250708
+:EXPORT_FILE_NAME: index
+:END:
+
+*** Today's notes
+
++ ‘Human error’ - Wimbledon sorry over missed line calls.
++ Labour vows to protect Sure Start-type system from any future Reform assault
++ UK air pollution killing more than 500 people a week, doctors say
+
+
+#+begin_export hugo
+<!--more-->
+#+end_export
+---
+
+**** ‘Human error’ - Wimbledon sorry over missed line calls.
+
+https://www.bbc.co.uk/sport/tennis/articles/czry1j5e32ko
+
+What happened here is the equivalent to using sat nav for a route you know, but then getting lost when you lose the GPS signal
+
+Before the introduction of automated line calls, the umpire would have simply overruled the lack of call from the human line judge. Instead, with a complex automated system in place, the umpire seemed at a loss about what do and therefore lost his authority over the game; a soft form of AI takeover.
+
+---
+
+**** Labour vows to protect Sure Start-type system from any future Reform assault
+
+https://www.theguardian.com/society/2025/jul/07/labour-protect-sure-start-type-system-future-reform-assault-bridget-phillipson
+
+Sure Start and its reintroduction should been among the first things mentioned at the start of this Labour administration. If it was and the media didn’t pick it up, then they should have shouted louder about it.
+
+---
+
+**** UK air pollution killing more than 500 people a week, doctors say
+
+https://www.theguardian.com/environment/2025/jun/19/uk-toxic-air-killing-people-doctors-warn
+
+Take note, people campaigning against Ultra Low Emission Zones and Low Traffic Neighbourhoods. 
+
+Our cities and their original suburbs were built as Low Traffic Neighbourhoods because they were built before the invention of the car.
+
+
+
 ** Notes 26.3.2025                                 :Politics:Transport:Space:
 :PROPERTIES:
 :EXPORT_DATE: 2025-03-26
