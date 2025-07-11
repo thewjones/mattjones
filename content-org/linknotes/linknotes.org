@@ -1,3 +1,4 @@
+
 #+hugo_base_dir: ../../
 #+hugo_section: linknotes
 
@@ -9,26 +10,24 @@
 * Link Notes                                              :@linknotes:
 
 
-** TODO Notes 8.7.2025                             :Politics:Transport:Space:
+** Notes 10.7.2025                                 :Politics:Sport:Environment:AI:
 :PROPERTIES:
-:EXPORT_DATE: 2025-07-08
-:EXPORT_HUGO_BUNDLE: 20250708
+:EXPORT_DATE: 2025-07-10
+:EXPORT_HUGO_BUNDLE: 20250710
 :EXPORT_FILE_NAME: index
 :END:
 
 *** Today's notes
 
-+ ‘Human error’ - Wimbledon sorry over missed line calls.
-+ Labour vows to protect Sure Start-type system from any future Reform assault
-+ UK air pollution killing more than 500 people a week, doctors say
-
-
++ [[/blog/links/2025/07/10/#human-error---wimbledon-sorry-over-missed-line-calls][‘Human error’ - Wimbledon sorry over missed line calls]]
++ [[/blog/links/2025/07/10/#labour-vows-to-protect-sure-start-type-system-from-any-future-reform-assault][Labour vows to protect Sure Start-type system from any future Reform assault]]
++ [[/blog/links/2025/07/10/#uk-air-pollution-killing-more-than-500-people-a-week-doctors-say][UK air pollution killing more than 500 people a week, doctors say]]
 #+begin_export hugo
 <!--more-->
 #+end_export
 ---
 
-**** ‘Human error’ - Wimbledon sorry over missed line calls.
+**** 'Human error' - Wimbledon sorry over missed line calls.
 
 https://www.bbc.co.uk/sport/tennis/articles/czry1j5e32ko
 
