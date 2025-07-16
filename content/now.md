@@ -6,7 +6,7 @@ title: Now
 
 Currently working in web and digital communications in Higher Education. I'm commuting to work 2 or 3 days by bike and train (10 miles by bike, the rest of the way by train).
 
-I'm trying to limit my time on screen to my day job. I not using social media.
+I'm trying to limit my time on screen to my day job. [I not using social media](https://mattjon.es/blog/2024/07/sayonara-social-media/).
 
 I'm building a [Eurorack](https://en.wikipedia.org/wiki/Eurorack) synth as economically as I possibly can. Buying second hand and considering soldering together some DIY modules. 
 
