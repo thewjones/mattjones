@@ -30,10 +30,16 @@ enableGitInfo = true
     weight     = 1
 
     [[menu.main]]
+    identifier = "now"
+    name       = "Now"
+    url        = "/now"
+    weight     = 2
+
+    [[menu.main]]
     identifier = "archive"
     name       = "Archive"
     url        = "/post"
-    weight     = 0
+    weight     = 3
 
     [[menu.options]]
     identifier = "subscribe"

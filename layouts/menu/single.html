@@ -9,9 +9,9 @@
 
 <nav>
   {{ $currentPage := . }}
-  <ul>
+  <ul style="list-style:none;margin:0;padding:0;">
 {{ range .Site.Menus.main }}
-<li><a class="sidebar-nav-item{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a></li>
+<li style="margin-bottom:0.5rem;"><a style="font-size:1.5rem;" class="sidebar-nav-item{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a></li>
 {{ end }}
 </ul>
 </nav>
