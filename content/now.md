@@ -8,10 +8,10 @@ Currently working in web and digital communications in Higher Education. I'm com
 
 I'm trying to limit my time on screen to my day job. I not using social media.
 
-I'm building a Eurorack synth as economically as I possibly can. Buying second hand and considering soldering together some DIY modules. 
+I'm building a [Eurorack](https://en.wikipedia.org/wiki/Eurorack) synth as economically as I possibly can. Buying second hand and considering soldering together some DIY modules. 
 
-Picking up playing alternative guitar tunings again which I haven’t done for a few years. Just learned ‘Go Your Way’ by Anne Briggs.
+Picking up playing alternative guitar tunings again which I haven’t done for a few years. Just learned ‘Go Your Way’ by [Anne Briggs](https://en.wikipedia.org/wiki/Anne_Briggs).
 
-Just been on the phone to Spa Cycles in Harrogate to enquire about building my dynamo hub - that i bought from them 15 years ago - into a new wheel. Calculated it’s done about 30,000 miles.
+Just been on the phone to [Spa Cycles](https://www.spacycles.co.uk/) in Harrogate to enquire about building my dynamo hub - that i bought from them 15 years ago - into a new wheel. Calculated it’s done about 30,000 miles.
 
 Navigating the choppy waters of parenthood.
