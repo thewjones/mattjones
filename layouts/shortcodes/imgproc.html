@@ -3,7 +3,7 @@
 {{ $options := .Get "options" }}
 
 
-{{ $filter := images.Process "resize 1120x q75 webp" }}
+{{ $filter := images.Process "resize 1200x q95 webp" }}
 
 {{ $image := .Scratch.Get "image" }}
 

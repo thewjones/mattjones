@@ -22,6 +22,9 @@ enableGitInfo = true
   pageNotFoundSubtitle = "Sorry, but the requested page wasn’t <br> found on the server."
   mainSections = ["post", "linknotes"]
 
+[imaging]
+  resampleFilter = 'Lanczos'
+
 [menu]
     [[menu.main]]
     identifier = "home"
