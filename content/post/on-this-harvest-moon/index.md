@@ -1,0 +1,29 @@
+---
+type: post
+comments: true
+date: 2025-10-10T07:00:41Z
+resources:
+- name: on-this-harvest-moon
+  src: aerial-moon.jpg
+tags:
+- Photography
+title: On this Harvest Moon
+---
+
+{{< imgproc name="aerial-moon" 
+ imageCaption="Harvest moon and TV aerial"
+    imageAttrib="Matt Jones"
+    imageLicense="(CC BY 2.0)"
+    licenseURL="https://creativecommons.org/licenses/by/2.0/"
+    >}}
+
+
+The shape of Moon's orbit around the Earth is not perfectly circular, but is a slight ellipse, with the Earth slightly off-centre within this ellipse. This means sometimes the Moon is a little closer to the earth and sometimes it's a little further away. 
+
+If it's closest point in its orbit - its perigee - co-incides with a full moon, it's a so called 'supermoon' and you can guarantee headlines about it, especially if it's a slow news day. 
+
+With the circumference of the sky divided into 360 degrees, the apparent size of the moon is about half of one of these degrees. The difference in apparent size of the Moon at perigee compared to apogee (it's furthest point away) is 0.07 of a degree. So it's not really possible for us to perceive the very slight increase in size of a 'supermoon' compared to a regular 'full moon', despite the excitement with the which the phenomenon is describe in the news.
+
+There's another factor that has a much greater effect on the apparent size of the Moon, which is the 'Moon Illusion', which I've already [written about](https://mattjon.es/blog/2004/05/why-the-moon-looks-bigger-on-the-horizon/) on this site. 
+
+So when the full moon looks particulary large - always just above the horizon and always opposite the Sun that has just set below the horizon - you're not seeing a 'supermoon', but the complex way our brains perceive the Moon and the space around us. 
