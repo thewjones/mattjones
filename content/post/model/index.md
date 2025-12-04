@@ -9,6 +9,6 @@ I preferred it when\
 supercomputers\
 were just used\
 to predict the weather\
-not the next word\
+not the next letter\
 the next pixel\
 or the next target
