@@ -10,7 +10,6 @@ categories:
 - Uncategorized
 comments: []
 date: 2000-12-06T00:00:00Z
-published: true
 status: publish
 tags:
 - Philosophy

@@ -1,5 +1,5 @@
-<ul class="tags">
+<ul class="list-unstyled size-xs cluster">
     {{ range .Params.tags }}
-      <li><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> </li>
+      <li><a class="badge outline" href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> </li>
     {{ end }}
   </ul>

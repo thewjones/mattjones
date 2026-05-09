@@ -16,7 +16,37 @@
         <meta http-equiv="X-UA-Compatible" content="IE=Edge">
         <meta name="author" content="@mattjones">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link href="{{ "css/style.css" | relURL }}" rel="stylesheet">
+       <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/kelpui@1/css/kelp.css">
+<script type="module" src="https://cdn.jsdelivr.net/npm/kelpui@1/js/kelp.js"></script>
+<link href="https://fonts.cdnfonts.com/css/montserrat" rel="stylesheet">
+              <style>
+                  h1, h2, h3{
+                  font-family: 'Montserrat', sans-serif;
+                  font-weight:600;
+                  color:darkseagreen;
+                  letter-spacing:-0.03em;
+                
+                }
+                 h1 {
+                  
+                  font-weight:300;
+                  
+                
+                }
+                h1.title {
+                  font-weight:400;
+                  text-transform:uppercase;
+                }
+                body {
+                  background-color:#fff;
+                }
+                a {
+                  color:darkseagreen;
+                }
+                img {width:100%;}
+              
+              </style>
+
         {{ if .Params.canonicalUrl }}
         <link rel="canonical" href="https://mattjon.es{{ .Params.canonicalUrl }}">
         {{ else }}
@@ -27,9 +57,11 @@
 {{ end -}}     
     </head>
 
-  <body>
-    <header>
-      <h1>{{ $.Site.Params.title }}</h1>
+  <body class="size-xl">
+    <div class="grid-xl">
+    <header class="item-fourth padding-3xl" style="border-right:solid 4px #eee;background-color:#fff;position:relative;">
+      <div style="position:sticky;top:3rem;">
+      <h1 class="title size-2xl">Matt N Jones</h1>
 
 <!--      <nav id="options">
         <ul>
@@ -41,7 +73,7 @@
 -->  
       <!--    <span>{{ $.Site.Params.description | safeHTML }}</span> -->
       
-     <nav class="main mob"><a id="back-link" href="{{ "menu" | relURL }}">
+     <nav class="hide-above-xl" style="position:absolute;top:0;right:0;"><a id="back-link" href="{{ "menu" | relURL }}">
           {{ if eq .Params.url "/menu/" }}
           <span class="close">&#10005;</span>
           {{ else }}
@@ -49,8 +81,8 @@
           {{ end }}
      </a></nav>
 
-     <nav class="desktop">
-       <ul>
+     <nav class="show-above-xl">
+       <ul class="list-unstyled">
 	  {{ $currentPage := . }}
  
 {{ range .Site.Menus.main }}
@@ -58,16 +90,19 @@
 {{ end }}
 </ul>
        </nav>
+       </div>
     </header>
     
-    <main>
+    <main class="item-three-fourths padding-2xl">
+    <div style="max-width:52em:margin:0 auto;">
     {{ block "main" . }}
     {{ printf "Template used: %#v" .Template }}
     <!-- The part of the page that begins to differ between templates -->
     {{ end }}
+  </div>
     </main>
-
-    <footer>
+</div>
+    <footer class="padding-2xl" style="border-top:solid 4px #eee">
       <div class="h-card vcard">
         <h3>Who is this?</h3>
 	<p>It's me, <a style="text-decoration: none" href={{ .Site.BaseURL }} class="p-name u-url url author metatag" rel="me">

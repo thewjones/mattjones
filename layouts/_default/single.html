@@ -2,14 +2,7 @@
 
 
 <article>
-  <header>
-    <h1>{{ .Title }}</h1>
-    <ul>
-      <li>Posted by <strong>Matt</strong> (<a href="{{ .Permalink }}">Permalink</a>)</li>
-      <li>Published on <time>{{ .PublishDate.Format "2 January 2006" }}</time></li>
- <li>Last edit: <a href="https://codeberg.org/mattjones/mattjon.es/commit/{{ .GitInfo.Hash }}">{{ .GitInfo.AbbreviatedHash }}</a></li>      
-     </ul>
-  </header>
+  {{ partial "header.html" . }}
   
   {{ if isset .Params "resources" }}
   {{ if $header := (.Resources.ByType "image").GetMatch "header" }}

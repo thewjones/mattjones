@@ -2,7 +2,7 @@
 
 <article>
   <section>
-    <h1>Latest Five Posts</h1>
+    <h1 class="visually-hidden">Latest Five Posts</h1>
     {{ range first 10 (where site.RegularPages "Type" "in" site.Params.mainSections).ByDate.Reverse }}
     {{ .Render "summary" }}
     {{ end }} 
